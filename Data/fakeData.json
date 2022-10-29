@@ -3,7 +3,7 @@
      {
           "id": 1,
           "image":"https://i.ytimg.com/vi/B-ytMSuwbf8/maxresdefault.jpg",
-          "couse": "UX & Web Design Master Course: Strategy, Design, Development",
+          "title": "UX & Web Design Master Course: Strategy, Design, Development",
           "instructor": "AK Manik",
           "rating": "4.5",
           "price": "$29"
@@ -11,16 +11,16 @@
      {
           "id": 2,
           "image": "https://iexperto.io/wp-content/uploads/2020/08/Responsive-Web-Design.jpeg",
-          "couse": "Responsive Web Design",
-          "name" : "Rizwan Islam",
+          "title": "Responsive Web Design",
+          "instructor" : "Rizwan Islam",
           "rating": "5.0",
           "price": "$59"
       },
      {
           "id": 3,
           "image": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/1071218_Graphic-Design.jpg",
-          "couse": "Graphic Design",
-          "name" : "Rizwan Islam",
+          "title": "Graphic Design",
+          "instructor" : "Rizwan Islam",
           "rating": "5.0",
           "price": "$39"
      },
@@ -28,8 +28,8 @@
      {
           "id": 4,
           "image": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8742819a47d44a9/61f9c966e21f8130542571b3/wordpress_monticello_shutterstock.jpg",
-          "couse": "WordPress Customization with Design",
-          "name" : "Monica Fing",
+          "title": "WordPress Customization with Design",
+          "instructor" : "Monica Fing",
           "rating": "4.5",
           "price": "$33"
      },
@@ -37,8 +37,8 @@
      {
           "id": 5,
           "image": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg",
-          "couse": "React Masterclass",
-          "name" : "Tatiana Kruse",
+          "title": "React Masterclass",
+          "instructor" : "Tatiana Kruse",
           "rating": "4.0",
           "price": "$69"
      },
@@ -46,8 +46,8 @@
      {
           "id": 6,
           "image": "https://i.ytimg.com/vi/4deVCNJq3qc/maxresdefault.jpg",
-          "couse": "vue Js crash course",
-          "name" : "Tatiana Kruse",
+          "title": "vue Js crash course",
+          "instructor" : "Tatiana Kruse",
           "rating": "4.0",
           "price": "$49"
          
